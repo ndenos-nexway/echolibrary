@@ -1,3 +1,3 @@
-module github.com/ndenos-nexway/echolibrary
+module echolibrary
 
 go 1.13
